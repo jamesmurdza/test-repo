@@ -1,0 +1,8 @@
+This is a notes file.
+
+Some quick notes:
+- Item one
+- Item two
+- Item three
+
+Feel free to edit this file as needed.
