@@ -1,0 +1,6 @@
+Hello, World!
+
+This is an example file created in the test repository.
+It contains some sample text content.
+
+Created: 2024
