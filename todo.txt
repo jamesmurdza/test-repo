@@ -1,0 +1,9 @@
+TODO List
+=========
+
+[ ] First task
+[ ] Second task
+[ ] Third task
+
+Completed:
+[x] Setup repository
