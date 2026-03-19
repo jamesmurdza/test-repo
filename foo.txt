@@ -1,0 +1,6 @@
+Hello, world!
+
+This is foo.txt, the file that exists for no particular reason.
+It's not bar.txt, it's not baz.txt, it's foo.txt - the OG placeholder file.
+
+Fun fact: "foo" has been confusing newcomers to programming since 1965.
