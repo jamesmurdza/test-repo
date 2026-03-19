@@ -1,0 +1,5 @@
+# APT packages to install
+# Add package names below, one per line
+
+curl
+git
