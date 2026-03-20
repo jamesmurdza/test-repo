@@ -1,0 +1,25 @@
+╔═══════════════════════════════════════════════════════════════╗
+║                    WELCOME TO THE FUN ZONE!                   ║
+╚═══════════════════════════════════════════════════════════════╝
+
+Here's a little ASCII art cat for you:
+
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)
+
+And some fun facts:
+- A group of flamingos is called a "flamboyance"
+- Honey never spoils - archaeologists found 3000-year-old honey in Egyptian tombs that was still edible!
+- Octopuses have three hearts and blue blood
+- The shortest war in history lasted 38-45 minutes (Britain vs Zanzibar, 1896)
+
+Random joke of the day:
+Why do programmers prefer dark mode?
+Because light attracts bugs! 🐛
+
+Have a fantastic day! ✨
