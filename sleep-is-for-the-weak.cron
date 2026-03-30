@@ -1,0 +1,8 @@
+# Run every minute because why not
+* * * * * echo "Are you still awake?" >> /dev/sanity
+
+# 3am deployment? Best time for deploys!
+0 3 * * * ./deploy-to-prod.sh --force --no-tests --yolo
+
+# Check if it's Friday at 5pm, then deploy
+0 17 * * 5 ./what-could-go-wrong.sh

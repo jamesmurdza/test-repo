@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Quick Sync (2 hours)
+DESCRIPTION:Let's align on synergies and circle back on action items
+LOCATION:Conference Room That's Always Booked
+ATTENDEES:entire-company@company.com
+STATUS:COULD-HAVE-BEEN-AN-EMAIL
+PRIORITY:LOW-BUT-MARKED-URGENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meeting About The Meeting
+DESCRIPTION:Pre-meeting to discuss what we'll discuss in the meeting
+DURATION:PT3H
+END:VEVENT
+END:VCALENDAR
