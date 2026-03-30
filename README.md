@@ -1,1 +1,1 @@
-# Thundering Mango Orchestra
+# Cosmic Waffle Ninjas
