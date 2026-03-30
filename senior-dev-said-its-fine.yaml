@@ -1,0 +1,8 @@
+# Code Review Status: "LGTM" 👍
+# Reviewer: Senior Dev (was on vacation, reviewed from phone)
+
+security: yolo
+testing: optional
+documentation: "the code is self-documenting"
+bugs: features
+technical_debt: future_me_problem
